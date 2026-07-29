@@ -1,0 +1,24 @@
+{
+  "source_language": "en",
+  "target_languages": [
+    "de",
+    "fr",
+    "it"
+  ],
+  "unique_msgids": 209,
+  "views": [
+    "home",
+    "platform",
+    "solutions",
+    "pricing",
+    "resources",
+    "about",
+    "contact",
+    "dashboard"
+  ],
+  "backend_files": [
+    "app/routes.py",
+    "app/content.py"
+  ],
+  "frontend_glob": "app/templates/*.html"
+}
