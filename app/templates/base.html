@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="{{ get_locale() }}">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{% block title %}{{ _('Northstar Cloud') }}{% endblock %}</title><link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head>
+<body>
+<header><a class="brand" href="{{ url_for('main.home') }}">{{ _('Northstar Cloud') }}</a><nav>
+<a href="{{ url_for('main.home') }}">{{ _('Home') }}</a><a href="{{ url_for('main.platform') }}">{{ _('Platform') }}</a><a href="{{ url_for('main.solutions') }}">{{ _('Solutions') }}</a><a href="{{ url_for('main.pricing') }}">{{ _('Pricing') }}</a><a href="{{ url_for('main.resources') }}">{{ _('Resources') }}</a><a href="{{ url_for('main.about') }}">{{ _('About') }}</a><a href="{{ url_for('main.contact') }}">{{ _('Contact') }}</a><a href="{{ url_for('main.dashboard') }}">{{ _('Dashboard') }}</a><a href="{{ url_for('main.catalogue') }}">{{ _('Language') }}</a>
+</nav><div class="language"><strong>{{ _('Language') }}:</strong>{% for code, name in supported_languages.items() %}<a href="{{ request.path }}?lang={{ code }}">{{ name }}</a>{% endfor %}</div></header>
+{% with messages = get_flashed_messages(with_categories=true) %}{% if messages %}<div class="flash-wrap">{% for category, message in messages %}<div class="flash {{ category }}">{{ message }}</div>{% endfor %}</div>{% endif %}{% endwith %}
+<main>{% block content %}{% endblock %}</main>
+<footer><span>© 2026 {{ _('Northstar Cloud') }}. {{ _('All rights reserved.') }}</span><a href="#">{{ _('Privacy') }}</a><a href="#">{{ _('Terms') }}</a><a href="#">{{ _('Status') }}</a></footer>
+</body></html>
