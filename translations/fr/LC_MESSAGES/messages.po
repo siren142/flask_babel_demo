@@ -1,23 +1,6 @@
-# French translations for Flask Babael Demo.
-# Copyright (C) 2026 ORGANIZATION
-# This file is distributed under the same license as the Flask Babael Demo
-# project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Flask Babael Demo 1.0.0\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2026-07-29 07:35+0200\n"
-"PO-Revision-Date: 2026-07-29 07:35+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: fr\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
 
 #: app/content.py:4 app/content.py:93
 msgid "Campaign planning"
@@ -31,7 +14,8 @@ msgid "Connected capability"
 msgstr ""
 
 #: app/content.py:4 app/content.py:110
-msgid "Coordinate briefs, channels, owners, and launch dates in one shared view."
+msgid ""
+"Coordinate briefs, channels, owners, and launch dates in one shared view."
 msgstr ""
 
 #: app/content.py:5 app/content.py:116
@@ -40,8 +24,7 @@ msgstr ""
 
 #: app/content.py:5 app/content.py:112
 msgid ""
-"Create a useful customer view without hiding the source of each data "
-"point."
+"Create a useful customer view without hiding the source of each data point."
 msgstr ""
 
 #: app/content.py:6 app/content.py:109
@@ -57,7 +40,8 @@ msgid "Workflow automation"
 msgstr ""
 
 #: app/content.py:7 app/content.py:205
-msgid "Reduce manual handovers with clear triggers, checks, and notifications."
+msgid ""
+"Reduce manual handovers with clear triggers, checks, and notifications."
 msgstr ""
 
 #: app/content.py:8 app/content.py:190
@@ -76,8 +60,7 @@ msgstr ""
 
 #: app/content.py:9 app/content.py:82
 msgid ""
-"Apply customer preferences consistently across channels and campaign "
-"steps."
+"Apply customer preferences consistently across channels and campaign steps."
 msgstr ""
 
 #: app/content.py:10 app/content.py:85
@@ -86,8 +69,7 @@ msgstr ""
 
 #: app/content.py:10 app/content.py:121
 msgid ""
-"Define practical segments with readable rules your team can review "
-"together."
+"Define practical segments with readable rules your team can review together."
 msgstr ""
 
 #: app/content.py:11 app/content.py:130
@@ -114,18 +96,13 @@ msgstr ""
 msgid "Local markets"
 msgstr ""
 
-#: app/content.py:13 app/content.py:79
-msgid ""
-"Adapt global campaigns while preserving local language, timing, and "
-"compliance needs."
-msgstr ""
-
 #: app/content.py:14 app/content.py:212
 msgid "Review cycles"
 msgstr ""
 
 #: app/content.py:14 app/content.py:157
-msgid "Keep feedback, approvals, and final decisions attached to the work itself."
+msgid ""
+"Keep feedback, approvals, and final decisions attached to the work itself."
 msgstr ""
 
 #: app/content.py:15 app/content.py:119
@@ -163,7 +140,8 @@ msgid "Scale content operations"
 msgstr ""
 
 #: app/content.py:21 app/content.py:114
-msgid "Create reliable review paths for increasing volumes of regional content."
+msgid ""
+"Create reliable review paths for increasing volumes of regional content."
 msgstr ""
 
 #: app/content.py:22 app/content.py:233
@@ -171,7 +149,8 @@ msgid "Strengthen governance"
 msgstr ""
 
 #: app/content.py:22 app/content.py:168
-msgid "Make policies actionable with embedded checks, ownership, and evidence."
+msgid ""
+"Make policies actionable with embedded checks, ownership, and evidence."
 msgstr ""
 
 #: app/content.py:23 app/content.py:236
@@ -180,8 +159,7 @@ msgstr ""
 
 #: app/content.py:23 app/content.py:146
 msgid ""
-"Give local teams flexibility while keeping shared standards easy to "
-"follow."
+"Give local teams flexibility while keeping shared standards easy to follow."
 msgstr ""
 
 #: app/content.py:24 app/content.py:170
@@ -189,7 +167,8 @@ msgid "Measure useful outcomes"
 msgstr ""
 
 #: app/content.py:24 app/content.py:137
-msgid "Focus reporting on decisions, customer value, and operational improvement."
+msgid ""
+"Focus reporting on decisions, customer value, and operational improvement."
 msgstr ""
 
 #: app/content.py:28 app/content.py:149
@@ -216,8 +195,8 @@ msgstr ""
 
 #: app/content.py:29 app/content.py:227
 msgid ""
-"Spot avoidable handovers, unclear ownership, and reporting that arrives "
-"too late."
+"Spot avoidable handovers, unclear ownership, and reporting that arrives too "
+"late."
 msgstr ""
 
 #: app/content.py:30 app/content.py:240
@@ -230,8 +209,8 @@ msgstr ""
 
 #: app/content.py:30 app/content.py:257
 msgid ""
-"Use a simple checklist to confirm content, data, approvals, and support "
-"are ready."
+"Use a simple checklist to confirm content, data, approvals, and support are "
+"ready."
 msgstr ""
 
 #: app/content.py:31 app/content.py:269
@@ -258,8 +237,8 @@ msgstr ""
 
 #: app/content.py:32 app/content.py:74
 msgid ""
-"A regional team created one visible process for briefs, localisation, and"
-" approval."
+"A regional team created one visible process for briefs, localisation, and "
+"approval."
 msgstr ""
 
 #: app/content.py:33 app/content.py:208
@@ -396,10 +375,6 @@ msgstr ""
 msgid "Missing translations fall back to the English source text."
 msgstr ""
 
-#: app/content.py:70 app/routes.py:67
-msgid "A campaign owner changed the launch date."
-msgstr ""
-
 #: app/content.py:72 app/templates/contact.html:1
 msgid "A product specialist will reply within two business days."
 msgstr ""
@@ -442,10 +417,6 @@ msgstr ""
 
 #: app/content.py:91 app/templates/home.html:1
 msgid "Build better customer journeys with one connected workspace."
-msgstr ""
-
-#: app/content.py:95
-msgid "Cancel"
 msgstr ""
 
 #: app/content.py:97 app/templates/platform.html:1
@@ -513,8 +484,7 @@ msgstr ""
 
 #: app/content.py:129 app/templates/home.html:1 app/templates/platform.html:1
 msgid ""
-"Everything your team needs to plan, launch, and improve digital "
-"experiences."
+"Everything your team needs to plan, launch, and improve digital experiences."
 msgstr ""
 
 #: app/content.py:133
@@ -780,7 +750,8 @@ msgstr ""
 msgid "Starter"
 msgstr ""
 
-#: app/content.py:232 app/templates/base.html:10 app/templates/dashboard.html:1
+#: app/content.py:232 app/templates/base.html:10
+#: app/templates/dashboard.html:1
 msgid "Status"
 msgstr ""
 
@@ -809,7 +780,6 @@ msgid "Terms"
 msgstr ""
 
 #: app/content.py:242 app/routes.py:45
-#, python-format
 msgid "Thank you, %(name)s. Your message has been received."
 msgstr ""
 
@@ -850,7 +820,6 @@ msgid "Up to 5 users"
 msgstr ""
 
 #: app/content.py:256
-#, python-format
 msgid "Updated %(minutes)s minutes ago"
 msgstr ""
 
@@ -873,7 +842,8 @@ msgid "Warning"
 msgstr ""
 
 #: app/content.py:265 app/templates/about.html:1
-msgid "We combine product thinking, service design, and responsible technology."
+msgid ""
+"We combine product thinking, service design, and responsible technology."
 msgstr ""
 
 #: app/content.py:266 app/templates/about.html:1
@@ -888,8 +858,8 @@ msgstr ""
 
 #: app/content.py:268 app/templates/about.html:1
 msgid ""
-"We help teams improve performance while respecting people, data, and "
-"local context."
+"We help teams improve performance while respecting people, data, and local "
+"context."
 msgstr ""
 
 #: app/content.py:270 app/templates/dashboard.html:1
@@ -916,3 +886,18 @@ msgstr ""
 msgid "per month"
 msgstr ""
 
+#: app/content.py:95
+msgid "Cancel"
+msgstr ""
+
+#: app/content.py:70 app/routes.py:67
+msgid "A campaign owner changed the launch date."
+msgstr "Le responsable d'une campagne a modifié la date de lancement."
+
+#: app/content.py:13 app/content.py:79
+msgid ""
+"Adapt global campaigns while preserving local language, timing, and "
+"compliance needs."
+msgstr ""
+"Adapter les campagnes internationales tout en respectant les spécificités "
+"linguistiques locales, les calendriers et les exigences de conformité."
