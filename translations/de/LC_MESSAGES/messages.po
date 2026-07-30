@@ -1,627 +1,698 @@
-# German translations for Flask Babael Demo.
-# Copyright (C) 2026 ORGANIZATION
-# This file is distributed under the same license as the Flask Babael Demo
-# project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Flask Babael Demo 1.0.0\n"
-"Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2026-07-29 07:35+0200\n"
-"PO-Revision-Date: 2026-07-29 07:35+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: de\n"
-"Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
-
-#: app/content.py:4 app/content.py:93
-msgid "Campaign planning"
-msgstr ""
-
-#: app/content.py:4 app/content.py:5 app/content.py:6 app/content.py:7
-#: app/content.py:8 app/content.py:9 app/content.py:10 app/content.py:11
-#: app/content.py:12 app/content.py:13 app/content.py:14 app/content.py:15
-#: app/content.py:104
-msgid "Connected capability"
-msgstr ""
-
-#: app/content.py:4 app/content.py:110
-msgid "Coordinate briefs, channels, owners, and launch dates in one shared view."
-msgstr ""
-
-#: app/content.py:5 app/content.py:116
-msgid "Customer profiles"
-msgstr ""
-
-#: app/content.py:5 app/content.py:112
-msgid ""
-"Create a useful customer view without hiding the source of each data "
-"point."
-msgstr ""
-
-#: app/content.py:6 app/content.py:109
-msgid "Content library"
-msgstr ""
-
-#: app/content.py:6 app/content.py:185
-msgid "Organise approved messages, images, and reusable campaign components."
 msgstr ""
 
 #: app/content.py:7 app/content.py:272
 msgid "Workflow automation"
-msgstr ""
+msgstr "Workflow-Automatisierung"
 
 #: app/content.py:7 app/content.py:205
-msgid "Reduce manual handovers with clear triggers, checks, and notifications."
+msgid ""
+"Reduce manual handovers with clear triggers, checks, and notifications."
 msgstr ""
+"Reduzieren Sie manuelle Übergaben durch klare Auslöser, Überprüfungen und "
+"Benachrichtigungen."
 
 #: app/content.py:8 app/content.py:190
 msgid "Performance insights"
-msgstr ""
-
-#: app/content.py:8 app/content.py:103
-msgid ""
-"Connect activity to outcomes with understandable reports for every "
-"stakeholder."
-msgstr ""
-
-#: app/content.py:9 app/content.py:105
-msgid "Consent controls"
-msgstr ""
-
-#: app/content.py:9 app/content.py:82
-msgid ""
-"Apply customer preferences consistently across channels and campaign "
-"steps."
-msgstr ""
-
-#: app/content.py:10 app/content.py:85
-msgid "Audience builder"
-msgstr ""
-
-#: app/content.py:10 app/content.py:121
-msgid ""
-"Define practical segments with readable rules your team can review "
-"together."
-msgstr ""
+msgstr "Einblicke in die Leistung"
 
 #: app/content.py:11 app/content.py:130
 msgid "Experiment tracking"
-msgstr ""
-
-#: app/content.py:11 app/content.py:204
-msgid ""
-"Record hypotheses, variants, decisions, and lessons in one consistent "
-"format."
-msgstr ""
+msgstr "Experimentverfolgung"
 
 #: app/content.py:12 app/content.py:189
 msgid "Partner workspace"
-msgstr ""
+msgstr "Partner-Arbeitsbereich"
 
 #: app/content.py:12 app/content.py:145
 msgid ""
 "Give agencies and suppliers the context they need without exposing "
 "everything."
 msgstr ""
+"Geben Sie Agenturen und Lieferanten die notwendigen "
+"Hintergrundinformationen, ohne dabei alles preiszugeben."
 
 #: app/content.py:13 app/content.py:166
 msgid "Local markets"
-msgstr ""
-
-#: app/content.py:13 app/content.py:79
-msgid ""
-"Adapt global campaigns while preserving local language, timing, and "
-"compliance needs."
-msgstr ""
+msgstr "Lokale Märkte"
 
 #: app/content.py:14 app/content.py:212
 msgid "Review cycles"
-msgstr ""
+msgstr "Überprüfungszyklen"
 
 #: app/content.py:14 app/content.py:157
-msgid "Keep feedback, approvals, and final decisions attached to the work itself."
-msgstr ""
-
-#: app/content.py:15 app/content.py:119
-msgid "Data connectors"
-msgstr ""
-
-#: app/content.py:15 app/content.py:90
 msgid ""
-"Bring selected data into the workspace through transparent, manageable "
-"connections."
+"Keep feedback, approvals, and final decisions attached to the work itself."
 msgstr ""
+"Verknüpfen Sie Rückmeldungen, Genehmigungen und endgültige Entscheidungen "
+"direkt mit der Arbeit selbst."
 
 #: app/content.py:19 app/content.py:162
 msgid "Launch campaigns faster"
-msgstr ""
-
-#: app/content.py:19 app/content.py:207
-msgid ""
-"Replace scattered status meetings with a shared launch plan and visible "
-"ownership."
-msgstr ""
+msgstr "Kampagnen schneller starten"
 
 #: app/content.py:20 app/content.py:154
 msgid "Improve customer relevance"
-msgstr ""
+msgstr "Die Kundenrelevanz verbessern"
 
 #: app/content.py:20 app/content.py:258
 msgid ""
 "Use customer context to make each interaction more useful and less "
 "repetitive."
 msgstr ""
+"Nutzen Sie den Kundenkontext, um jede Interaktion sinnvoller und weniger "
+"repetitiv zu gestalten."
 
 #: app/content.py:21 app/content.py:215
 msgid "Scale content operations"
-msgstr ""
-
-#: app/content.py:21 app/content.py:114
-msgid "Create reliable review paths for increasing volumes of regional content."
-msgstr ""
+msgstr "Inhaltsvorgänge skalieren"
 
 #: app/content.py:22 app/content.py:233
 msgid "Strengthen governance"
-msgstr ""
+msgstr "Die Unternehmensführung stärken"
 
-#: app/content.py:22 app/content.py:168
-msgid "Make policies actionable with embedded checks, ownership, and evidence."
-msgstr ""
+#: app/content.py:53 app/content.py:123
+msgid "Download data"
+msgstr "Daten herunterladen"
 
 #: app/content.py:23 app/content.py:236
 msgid "Support local teams"
-msgstr ""
-
-#: app/content.py:23 app/content.py:146
-msgid ""
-"Give local teams flexibility while keeping shared standards easy to "
-"follow."
-msgstr ""
+msgstr "Unterstützt lokale Teams"
 
 #: app/content.py:24 app/content.py:170
 msgid "Measure useful outcomes"
-msgstr ""
+msgstr "Nützliche Ergebnisse messen"
 
 #: app/content.py:24 app/content.py:137
-msgid "Focus reporting on decisions, customer value, and operational improvement."
+msgid ""
+"Focus reporting on decisions, customer value, and operational improvement."
 msgstr ""
+"Der Schwerpunkt liegt auf der Berichterstattung über Entscheidungen, den "
+"Kundennutzen und operative Verbesserungen."
 
 #: app/content.py:28 app/content.py:149
 msgid "Guide"
-msgstr ""
+msgstr "Leitfaden"
 
 #: app/content.py:28 app/content.py:71
 msgid "A practical guide to multilingual campaign operations"
 msgstr ""
+"Ein praktischer Leitfaden für die Durchführung mehrsprachiger Kampagnen"
+
+#: app/content.py:29 app/content.py:83
+msgid "Article"
+msgstr "Artikel"
+
+#: app/content.py:29 app/content.py:135
+msgid "Five signs your campaign workflow needs attention"
+msgstr ""
+"Fünf Anzeichen dafür, dass Ihr Kampagnen-Workflow überarbeitet werden muss"
+
+#: app/content.py:29 app/content.py:227
+msgid ""
+"Spot avoidable handovers, unclear ownership, and reporting that arrives too "
+"late."
+msgstr ""
+"Erkennen Sie vermeidbare Übergaben, unklare Zuständigkeiten und zu spät "
+"eingehende Berichte."
+
+#: app/content.py:30 app/content.py:240
+msgid "Template"
+msgstr "Vorlage"
+
+#: app/content.py:141
+msgid "Free trial"
+msgstr "Kostenlose Testversion"
+
+#: app/content.py:32 app/content.py:96
+msgid "Case study"
+msgstr "Fallstudie"
+
+#: app/content.py:33 app/content.py:208
+msgid "Report"
+msgstr "Bericht"
+
+#: app/content.py:33 app/content.py:247
+msgid "The state of connected customer work"
+msgstr "Der Stand der Arbeit im Bereich „Connected Customer“"
+
+#: app/content.py:37 app/content.py:161 app/templates/about.html:1
+msgid "Latest updates"
+msgstr "Neueste Updates"
+
+#: app/content.py:38 app/content.py:262
+msgid "View all activity"
+msgstr "Alle Aktivitäten anzeigen"
+
+#: app/content.py:39 app/content.py:113
+msgid "Create campaign"
+msgstr "Kampagne erstellen"
+
+#: app/content.py:40 app/content.py:155
+msgid "Invite team member"
+msgstr "Teammitglied einladen"
+
+#: app/content.py:41 app/content.py:132
+msgid "Export report"
+msgstr "Bericht exportieren"
+
+#: app/content.py:42 app/content.py:159
+msgid "Last 30 days"
+msgstr "Letzte 30 Tage"
+
+#: app/content.py:47 app/content.py:273
+msgid "Workspace health"
+msgstr "Gesundheit am Arbeitsplatz"
+
+#: app/content.py:48 app/content.py:147
+msgid "Good"
+msgstr "Gut"
+
+#: app/content.py:50 app/content.py:179
+msgid "No recent issues"
+msgstr "Keine aktuellen Probleme"
+
+#: app/content.py:51 app/content.py:213
+msgid "Review permissions"
+msgstr "Berechtigungen überprüfen"
+
+#: app/content.py:52 app/content.py:169
+msgid "Manage integrations"
+msgstr "Integrationen verwalten"
+
+#: app/content.py:55 app/content.py:200
+msgid "Product updates"
+msgstr "Produktaktualisierungen"
+
+#: app/content.py:58 app/content.py:248
+msgid "This action cannot be undone."
+msgstr "Diese Aktion kann nicht rückgängig gemacht werden."
+
+#: app/content.py:60 app/content.py:245
+msgid "The demo stores your language choice in the session."
+msgstr "Die Demo speichert Ihre Sprachauswahl in der Sitzung."
+
+#: app/content.py:62 app/content.py:220 app/templates/catalogue.html:1
+msgid "Short labels and long sentences are both included in the example."
+msgstr "Das Beispiel enthält sowohl kurze Bezeichnungen als auch lange Sätze."
+
+#: app/content.py:64 app/content.py:259
+msgid "Use the extraction command after adding new source strings."
+msgstr ""
+"Führen Sie den Extraktionsbefehl aus, nachdem Sie neue Quellzeichenfolgen "
+"hinzugefügt haben."
+
+#: app/content.py:66 app/content.py:174
+msgid "Missing translations fall back to the English source text."
+msgstr "Fehlende Übersetzungen werden durch den englischen Quelltext ersetzt."
+
+#: app/content.py:72 app/templates/contact.html:1
+msgid "A product specialist will reply within two business days."
+msgstr ""
+"Ein Produktspezialist wird Ihnen innerhalb von zwei Werktagen antworten."
+
+#: app/content.py:127
+msgid "Error"
+msgstr "Fehler"
+
+#: app/content.py:129 app/templates/home.html:1 app/templates/platform.html:1
+msgid ""
+"Everything your team needs to plan, launch, and improve digital experiences."
+msgstr ""
+"Alles, was Ihr Team benötigt, um digitale Erlebnisse zu planen, einzuführen "
+"und zu optimieren."
+
+#: app/content.py:133
+msgid "Filter"
+msgstr "Filter"
+
+#: app/content.py:134 app/templates/contact.html:1
+msgid "First name"
+msgstr "Vorname"
+
+#: app/content.py:136 app/templates/pricing.html:1
+msgid "Flexible plans for growing teams and established organisations."
+msgstr "Flexible Lösungen für wachsende Teams und etablierte Unternehmen."
+
+#: app/content.py:138 app/routes.py:23
+msgid "For growing teams coordinating multiple campaigns."
+msgstr "Für wachsende Teams, die mehrere Kampagnen koordinieren."
+
+#: app/content.py:140 app/routes.py:22
+msgid "For small teams testing a connected workflow."
+msgstr "Für kleine Teams, die einen vernetzten Arbeitsablauf testen."
+
+#: app/content.py:143
+msgid "German"
+msgstr "Deutsch"
+
+#: app/content.py:148 app/routes.py:23
+msgid "Growth"
+msgstr "Wachstum"
+
+#: app/content.py:151 app/templates/base.html:6
+msgid "Home"
+msgstr "Startseite"
+
+#: app/content.py:153 app/templates/contact.html:1
+msgid "How can we help?"
+msgstr "Wie können wir Ihnen helfen?"
+
+#: app/content.py:156
+msgid "Italian"
+msgstr "Italienisch"
+
+#: app/content.py:158 app/templates/base.html:6 app/templates/base.html:7
+#: app/templates/catalogue.html:1
+msgid "Language"
+msgstr "Sprache"
+
+#: app/content.py:160 app/templates/contact.html:1
+msgid "Last name"
+msgstr "Nachname"
+
+#: app/content.py:164 app/templates/home.html:1
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: app/content.py:165
+msgid "Loading"
+msgstr "Wird geladen"
+
+#: app/content.py:171 app/templates/about.html:1
+msgid "Meet the people building a calmer way to manage digital growth."
+msgstr ""
+"Lernen Sie die Menschen kennen, die einen entspannteren Weg zur Bewältigung "
+"des digitalen Wachstums entwickeln."
+
+#: app/content.py:172
+msgid "Menu"
+msgstr "Menü"
+
+#: app/content.py:173
+msgid "Message"
+msgstr "Nachricht"
+
+#: app/content.py:175
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: app/content.py:177 app/templates/home.html:1
+msgid "New"
+msgstr "Neu"
+
+#: app/content.py:178 app/templates/pricing.html:1
+msgid "No credit card required"
+msgstr "Keine Kreditkarte erforderlich"
+
+#: app/content.py:181 app/templates/home.html:1
+msgid ""
+"Northstar Cloud brings campaigns, customer data, and team workflows "
+"together."
+msgstr ""
+"Northstar Cloud vereint Kampagnen, Kundendaten und Team-Workflows unter "
+"einem Dach."
+
+#: app/content.py:182
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: app/content.py:183 app/routes.py:60
+msgid "On track"
+msgstr "Auf Kurs"
+
+#: app/content.py:184 app/routes.py:56
+msgid "Open reviews"
+msgstr "Bewertungen anzeigen"
+
+#: app/content.py:186 app/templates/about.html:1
+msgid "Our principles"
+msgstr "Unsere Grundsätze"
+
+#: app/content.py:187
+msgid "Overview"
+msgstr "Übersicht"
+
+#: app/content.py:188 app/templates/404.html:1
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: app/content.py:191 app/templates/base.html:6 app/templates/platform.html:1
+msgid "Platform"
+msgstr "Plattform"
+
+#: app/content.py:192 app/routes.py:41
+msgid "Please complete all required fields."
+msgstr "Bitte füllen Sie alle Pflichtfelder aus."
+
+#: app/content.py:193 app/routes.py:43
+msgid "Please enter a valid email address."
+msgstr "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+
+#: app/content.py:194 app/templates/500.html:1
+msgid "Please try again later."
+msgstr "Bitte versuche es später noch einmal."
+
+#: app/content.py:195
+msgid "Popular"
+msgstr "Beliebt"
+
+#: app/content.py:196 app/templates/resources.html:1
+msgid "Practical ideas for modern marketing and customer experience teams."
+msgstr ""
+"Praktische Ideen für moderne Marketing- und Customer-Experience-Teams."
+
+#: app/content.py:197 app/templates/base.html:6 app/templates/pricing.html:1
+msgid "Pricing"
+msgstr "Preise"
+
+#: app/content.py:198 app/routes.py:23
+msgid "Priority support"
+msgstr "Vorrangiger Support"
+
+#: app/content.py:199 app/templates/base.html:10
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: app/content.py:201 app/templates/dashboard.html:1
+msgid "Projects"
+msgstr "Projekte"
+
+#: app/content.py:202 app/templates/resources.html:1
+msgid "Read the guide"
+msgstr "Lesen Sie den Leitfaden"
+
+#: app/content.py:203
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: app/content.py:209 app/templates/base.html:6 app/templates/resources.html:1
+msgid "Resources"
+msgstr "Ressourcen"
+
+#: app/content.py:210 app/templates/about.html:1
+msgid "Responsible growth"
+msgstr "Verantwortungsbewusstes Wachstum"
+
+#: app/content.py:211 app/templates/404.html:1 app/templates/500.html:1
+msgid "Return home"
+msgstr "Zurück zur Startseite"
+
+#: app/content.py:214
+msgid "Save"
+msgstr "Speichern"
+
+#: app/content.py:216
+msgid "Search"
+msgstr "Suche"
+
+#: app/content.py:219
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: app/content.py:221
+msgid "Sign in"
+msgstr "Anmelden"
+
+#: app/content.py:222
+msgid "Sign out"
+msgstr "Abmelden"
+
+#: app/content.py:224 app/templates/base.html:6 app/templates/solutions.html:1
+msgid "Solutions"
+msgstr "Lösungen"
+
+#: app/content.py:228 app/routes.py:60
+msgid "Spring product launch"
+msgstr "Produkteinführung im Frühjahr"
+
+#: app/content.py:229
+msgid "Standard reporting"
+msgstr "Standardberichterstattung"
+
+#: app/content.py:231 app/routes.py:22
+msgid "Starter"
+msgstr "Start"
+
+#: app/content.py:232 app/templates/base.html:10
+#: app/templates/dashboard.html:1
+msgid "Status"
+msgstr "Status"
+
+#: app/content.py:234 app/templates/contact.html:1
+msgid "Submit"
+msgstr "Absenden"
+
+#: app/content.py:235
+msgid "Success"
+msgstr "Erfolg"
+
+#: app/content.py:237 app/routes.py:57
+msgid "Tasks due this week"
+msgstr "In dieser Woche fällige Aufgaben"
+
+#: app/content.py:238
+msgid "Team"
+msgstr "Team"
+
+#: app/content.py:239 app/templates/contact.html:1
+msgid "Tell us what you are trying to improve."
+msgstr "Sag uns, was du verbessern möchtest."
+
+#: app/content.py:241 app/templates/base.html:10
+msgid "Terms"
+msgstr "Begriffe"
+
+#: app/content.py:243 app/routes.py:66
+msgid "The Italian landing page is ready for final review."
+msgstr ""
+"Die italienische Landingpage ist bereit für die abschließende Überprüfung."
+
+#: app/content.py:246 app/templates/404.html:1
+msgid "The page you requested does not exist."
+msgstr "Die von Ihnen angeforderte Seite existiert nicht."
+
+#: app/content.py:249 app/routes.py:67
+msgid "This week"
+msgstr "Diese Woche"
+
+#: app/content.py:250 app/routes.py:65
+msgid "Three approvals are waiting for your decision."
+msgstr ""
+"Es liegen drei Genehmigungsanträge vor, über die Sie entscheiden müssen."
+
+#: app/content.py:251 app/routes.py:65
+msgid "Today"
+msgstr "Heute"
+
+#: app/content.py:253 app/routes.py:24
+msgid "Unlimited users"
+msgstr "Unbegrenzte Anzahl von Benutzern"
+
+#: app/content.py:254 app/routes.py:23
+msgid "Up to 25 users"
+msgstr "Bis zu 25 Benutzer"
+
+#: app/content.py:255 app/routes.py:22
+msgid "Up to 5 users"
+msgstr "Bis zu 5 Benutzer"
+
+#: app/content.py:256
+msgid "Updated %(minutes)s minutes ago"
+msgstr "Vor %(minutes)s Minuten aktualisiert"
+
+#: app/content.py:261 app/templates/about.html:1
+msgid "Useful by default"
+msgstr "Standardmäßig aktiviert"
+
+#: app/content.py:263 app/templates/home.html:1
+msgid "View details"
+msgstr "Details anzeigen"
+
+#: app/content.py:264
+msgid "Warning"
+msgstr "Warnung"
+
+#: app/content.py:265 app/templates/about.html:1
+msgid ""
+"We combine product thinking, service design, and responsible technology."
+msgstr ""
+"Wir verbinden Produktdenken, Service-Design und verantwortungsbewusste "
+"Technologie."
+
+#: app/content.py:267 app/templates/about.html:1
+msgid "We explain how work moves, who decides, and what happens next."
+msgstr ""
+"Wir erklären, wie die Arbeit abläuft, wer entscheidet und wie es weitergeht."
+
+#: app/content.py:268 app/templates/about.html:1
+msgid ""
+"We help teams improve performance while respecting people, data, and local "
+"context."
+msgstr ""
+"Wir unterstützen Teams dabei, ihre Leistung zu steigern und dabei Menschen, "
+"Daten und den lokalen Kontext zu berücksichtigen."
+
+#: app/content.py:270 app/templates/dashboard.html:1
+msgid "Welcome back"
+msgstr "Willkommen zurück"
+
+#: app/content.py:271 app/templates/contact.html:1
+msgid "Work email"
+msgstr "Dienst-E-Mail-Adresse"
+
+#: app/content.py:274
+msgid "Yearly"
+msgstr "Jährlich"
+
+#: app/content.py:275 app/routes.py:66
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: app/content.py:277 app/templates/dashboard.html:1
+msgid "Your workspace"
+msgstr "Ihr Arbeitsbereich"
+
+#: app/content.py:4 app/content.py:93
+msgid "Campaign planning"
+msgstr "Kampagnenplanung"
+
+#: app/content.py:6 app/content.py:185
+msgid "Organise approved messages, images, and reusable campaign components."
+msgstr ""
+"Organisieren Sie freigegebene Nachrichten, Bilder und wiederverwendbare "
+"Kampagnenkomponenten."
+
+#: app/content.py:11 app/content.py:204
+msgid ""
+"Record hypotheses, variants, decisions, and lessons in one consistent "
+"format."
+msgstr ""
+"Halten Sie Hypothesen, Varianten, Entscheidungen und Erkenntnisse in einem "
+"einheitlichen Format fest."
+
+#: app/content.py:19 app/content.py:207
+msgid ""
+"Replace scattered status meetings with a shared launch plan and visible "
+"ownership."
+msgstr ""
+"Ersetzen Sie vereinzelte Statusbesprechungen durch einen gemeinsamen "
+"Projektstartplan und klar definierte Zuständigkeiten."
+
+#: app/content.py:22 app/content.py:168
+msgid ""
+"Make policies actionable with embedded checks, ownership, and evidence."
+msgstr ""
+"Sorgen Sie dafür, dass Richtlinien umsetzbar sind – durch integrierte "
+"Kontrollen, Verantwortlichkeiten und Nachweise."
+
+#: app/content.py:23 app/content.py:146
+msgid ""
+"Give local teams flexibility while keeping shared standards easy to follow."
+msgstr ""
+"Den lokalen Teams Flexibilität gewähren und gleichzeitig dafür sorgen, dass "
+"gemeinsame Standards leicht einzuhalten sind."
 
 #: app/content.py:28 app/content.py:163
 msgid ""
 "Learn how to organise translation, review, and local approval without "
 "slowing every launch."
 msgstr ""
-
-#: app/content.py:29 app/content.py:83
-msgid "Article"
-msgstr ""
-
-#: app/content.py:29 app/content.py:135
-msgid "Five signs your campaign workflow needs attention"
-msgstr ""
-
-#: app/content.py:29 app/content.py:227
-msgid ""
-"Spot avoidable handovers, unclear ownership, and reporting that arrives "
-"too late."
-msgstr ""
-
-#: app/content.py:30 app/content.py:240
-msgid "Template"
-msgstr ""
-
-#: app/content.py:30 app/content.py:92
-msgid "Campaign launch readiness checklist"
-msgstr ""
+"Erfahren Sie, wie Sie Übersetzung, Überprüfung und lokale Freigabe "
+"organisieren können, ohne dabei jede Markteinführung zu verzögern."
 
 #: app/content.py:30 app/content.py:257
 msgid ""
-"Use a simple checklist to confirm content, data, approvals, and support "
-"are ready."
+"Use a simple checklist to confirm content, data, approvals, and support are "
+"ready."
 msgstr ""
+"Verwenden Sie eine einfache Checkliste, um zu überprüfen, ob Inhalte, Daten,"
+" Genehmigungen und Support bereit sind."
 
 #: app/content.py:31 app/content.py:269
 msgid "Webinar"
-msgstr ""
-
-#: app/content.py:31 app/content.py:122
-msgid "Designing calm marketing operations"
-msgstr ""
+msgstr "Webinar"
 
 #: app/content.py:31 app/content.py:217
 msgid ""
 "See how focused workflows can reduce coordination effort and improve "
 "decision quality."
 msgstr ""
-
-#: app/content.py:32 app/content.py:96
-msgid "Case study"
-msgstr ""
+"Erfahren Sie, wie zielgerichtete Arbeitsabläufe den Koordinationsaufwand "
+"reduzieren und die Entscheidungsqualität verbessern können."
 
 #: app/content.py:32 app/content.py:152
 msgid "How Alpine Works reduced launch delays"
-msgstr ""
-
-#: app/content.py:32 app/content.py:74
-msgid ""
-"A regional team created one visible process for briefs, localisation, and"
-" approval."
-msgstr ""
-
-#: app/content.py:33 app/content.py:208
-msgid "Report"
-msgstr ""
-
-#: app/content.py:33 app/content.py:247
-msgid "The state of connected customer work"
-msgstr ""
+msgstr "Wie Alpine Works Verzögerungen bei der Markteinführung reduzierte"
 
 #: app/content.py:33 app/content.py:131
 msgid ""
 "Explore common coordination challenges and the practices teams use to "
 "address them."
 msgstr ""
-
-#: app/content.py:37 app/content.py:161 app/templates/about.html:1
-msgid "Latest updates"
-msgstr ""
-
-#: app/content.py:38 app/content.py:262
-msgid "View all activity"
-msgstr ""
-
-#: app/content.py:39 app/content.py:113
-msgid "Create campaign"
-msgstr ""
-
-#: app/content.py:40 app/content.py:155
-msgid "Invite team member"
-msgstr ""
-
-#: app/content.py:41 app/content.py:132
-msgid "Export report"
-msgstr ""
-
-#: app/content.py:42 app/content.py:159
-msgid "Last 30 days"
-msgstr ""
-
-#: app/content.py:43 app/content.py:102
-msgid "Completion rate"
-msgstr ""
-
-#: app/content.py:44 app/content.py:87
-msgid "Average review time"
-msgstr ""
-
-#: app/content.py:45 app/content.py:94
-msgid "Campaign reach"
-msgstr ""
-
-#: app/content.py:46 app/content.py:108
-msgid "Content approved"
-msgstr ""
-
-#: app/content.py:47 app/content.py:273
-msgid "Workspace health"
-msgstr ""
-
-#: app/content.py:48 app/content.py:147
-msgid "Good"
-msgstr ""
-
-#: app/content.py:49 app/content.py:76
-msgid "Action required"
-msgstr ""
-
-#: app/content.py:50 app/content.py:179
-msgid "No recent issues"
-msgstr ""
-
-#: app/content.py:51 app/content.py:213
-msgid "Review permissions"
-msgstr ""
-
-#: app/content.py:52 app/content.py:169
-msgid "Manage integrations"
-msgstr ""
-
-#: app/content.py:53 app/content.py:123
-msgid "Download data"
-msgstr ""
+"Entdecken Sie häufige Herausforderungen bei der Koordination und die "
+"Methoden, mit denen Teams diese bewältigen."
 
 #: app/content.py:54 app/content.py:150
 msgid "Help centre"
-msgstr ""
-
-#: app/content.py:55 app/content.py:200
-msgid "Product updates"
-msgstr ""
-
-#: app/content.py:56 app/content.py:107
-msgid "Contact support"
-msgstr ""
+msgstr "Hilfezentrum"
 
 #: app/content.py:57 app/content.py:276
 msgid "Your changes were saved."
-msgstr ""
-
-#: app/content.py:58 app/content.py:248
-msgid "This action cannot be undone."
-msgstr ""
+msgstr "Ihre Änderungen wurden gespeichert."
 
 #: app/content.py:59 app/content.py:218 app/templates/catalogue.html:1
 msgid "Select a language to preview the translated experience."
 msgstr ""
-
-#: app/content.py:60 app/content.py:245
-msgid "The demo stores your language choice in the session."
-msgstr ""
-
-#: app/content.py:61 app/content.py:88
-msgid "Backend messages use the same translation catalogues as the templates."
-msgstr ""
-
-#: app/content.py:62 app/content.py:220 app/templates/catalogue.html:1
-msgid "Short labels and long sentences are both included in the example."
-msgstr ""
+"Wählen Sie eine Sprache aus, um eine Vorschau der übersetzten Seite "
+"anzuzeigen."
 
 #: app/content.py:63 app/content.py:252
 msgid "Translations can be updated without changing the application logic."
 msgstr ""
-
-#: app/content.py:64 app/content.py:259
-msgid "Use the extraction command after adding new source strings."
-msgstr ""
-
-#: app/content.py:65 app/content.py:101
-msgid "Compile the catalogues before deploying the application."
-msgstr ""
-
-#: app/content.py:66 app/content.py:174
-msgid "Missing translations fall back to the English source text."
-msgstr ""
+"Übersetzungen können aktualisiert werden, ohne die Anwendungslogik zu "
+"ändern."
 
 #: app/content.py:70 app/routes.py:67
 msgid "A campaign owner changed the launch date."
-msgstr ""
-
-#: app/content.py:72 app/templates/contact.html:1
-msgid "A product specialist will reply within two business days."
-msgstr ""
-
-#: app/content.py:73 app/templates/dashboard.html:1
-msgid "A quick view of your current workspace activity."
-msgstr ""
-
-#: app/content.py:75 app/templates/about.html:1 app/templates/base.html:6
-msgid "About"
-msgstr ""
-
-#: app/content.py:77 app/routes.py:56
-msgid "Active campaigns"
-msgstr ""
-
-#: app/content.py:78 app/templates/dashboard.html:1
-msgid "Activity"
-msgstr ""
-
-#: app/content.py:80 app/routes.py:23
-msgid "Advanced automation"
-msgstr ""
-
-#: app/content.py:81 app/templates/base.html:10
-msgid "All rights reserved."
-msgstr ""
-
-#: app/content.py:84 app/routes.py:62
-msgid "At risk"
-msgstr ""
-
-#: app/content.py:86 app/routes.py:24
-msgid "Audit export"
-msgstr ""
-
-#: app/content.py:89 app/templates/home.html:1 app/templates/solutions.html:1
-msgid "Book a demo"
-msgstr ""
+msgstr "Ein Kampagneninhaber hat das Startdatum geändert."
 
 #: app/content.py:91 app/templates/home.html:1
 msgid "Build better customer journeys with one connected workspace."
 msgstr ""
-
-#: app/content.py:95
-msgid "Cancel"
-msgstr ""
-
-#: app/content.py:97 app/templates/platform.html:1
-msgid "Choose the capabilities that match your current priorities."
-msgstr ""
-
-#: app/content.py:98 app/templates/about.html:1
-msgid "Clarity over noise"
-msgstr ""
-
-#: app/content.py:99
-msgid "Close"
-msgstr ""
-
-#: app/content.py:100 app/templates/contact.html:1
-msgid "Company"
-msgstr ""
-
-#: app/content.py:106 app/templates/base.html:6 app/templates/contact.html:1
-#: app/templates/pricing.html:1
-msgid "Contact"
-msgstr ""
-
-#: app/content.py:111 app/routes.py:22
-msgid "Core workflows"
-msgstr ""
-
-#: app/content.py:115 app/routes.py:23
-msgid "Custom dashboards"
-msgstr ""
-
-#: app/content.py:117 app/routes.py:61
-msgid "Customer welcome series"
-msgstr ""
-
-#: app/content.py:118 app/templates/base.html:6 app/templates/dashboard.html:1
-msgid "Dashboard"
-msgstr ""
-
-#: app/content.py:120 app/routes.py:24
-msgid "Dedicated success manager"
-msgstr ""
-
-#: app/content.py:124 app/routes.py:22
-msgid "Email support"
-msgstr ""
-
-#: app/content.py:125
-msgid "English"
-msgstr ""
-
-#: app/content.py:126 app/routes.py:24
-msgid "Enterprise"
-msgstr ""
-
-#: app/content.py:127
-msgid "Error"
-msgstr ""
+"Gestalten Sie bessere Customer Journeys mit einem einzigen, vernetzten "
+"Arbeitsbereich."
 
 #: app/content.py:128 app/templates/pricing.html:1
 msgid ""
 "Every plan includes secure hosting, product updates, and multilingual "
 "support."
 msgstr ""
-
-#: app/content.py:129 app/templates/home.html:1 app/templates/platform.html:1
-msgid ""
-"Everything your team needs to plan, launch, and improve digital "
-"experiences."
-msgstr ""
-
-#: app/content.py:133
-msgid "Filter"
-msgstr ""
-
-#: app/content.py:134 app/templates/contact.html:1
-msgid "First name"
-msgstr ""
-
-#: app/content.py:136 app/templates/pricing.html:1
-msgid "Flexible plans for growing teams and established organisations."
-msgstr ""
-
-#: app/content.py:138 app/routes.py:23
-msgid "For growing teams coordinating multiple campaigns."
-msgstr ""
+"Jedes Paket umfasst sicheres Hosting, Produkt-Updates und mehrsprachigen "
+"Support."
 
 #: app/content.py:139 app/routes.py:24
 msgid "For organisations with advanced governance needs."
 msgstr ""
-
-#: app/content.py:140 app/routes.py:22
-msgid "For small teams testing a connected workflow."
-msgstr ""
-
-#: app/content.py:141
-msgid "Free trial"
-msgstr ""
+"Für Organisationen mit hohen Anforderungen an die Unternehmensführung."
 
 #: app/content.py:142
 msgid "French"
-msgstr ""
-
-#: app/content.py:143
-msgid "German"
-msgstr ""
+msgstr "Französisch"
 
 #: app/content.py:144 app/templates/platform.html:1
 #: app/templates/pricing.html:1
 msgid "Get started"
-msgstr ""
-
-#: app/content.py:148 app/routes.py:23
-msgid "Growth"
-msgstr ""
-
-#: app/content.py:151 app/templates/base.html:6
-msgid "Home"
-msgstr ""
-
-#: app/content.py:153 app/templates/contact.html:1
-msgid "How can we help?"
-msgstr ""
-
-#: app/content.py:156
-msgid "Italian"
-msgstr ""
-
-#: app/content.py:158 app/templates/base.html:6 app/templates/base.html:7
-#: app/templates/catalogue.html:1
-msgid "Language"
-msgstr ""
-
-#: app/content.py:160 app/templates/contact.html:1
-msgid "Last name"
-msgstr ""
-
-#: app/content.py:164 app/templates/home.html:1
-msgid "Learn more"
-msgstr ""
-
-#: app/content.py:165
-msgid "Loading"
-msgstr ""
+msgstr "Los geht’s"
 
 #: app/content.py:167 app/routes.py:57
 msgid "Local markets online"
-msgstr ""
-
-#: app/content.py:171 app/templates/about.html:1
-msgid "Meet the people building a calmer way to manage digital growth."
-msgstr ""
-
-#: app/content.py:172
-msgid "Menu"
-msgstr ""
-
-#: app/content.py:173
-msgid "Message"
-msgstr ""
-
-#: app/content.py:175
-msgid "Monthly"
-msgstr ""
+msgstr "Lokale Märkte im Internet"
 
 #: app/content.py:176 app/routes.py:61
 msgid "Needs review"
-msgstr ""
-
-#: app/content.py:177 app/templates/home.html:1
-msgid "New"
-msgstr ""
-
-#: app/content.py:178 app/templates/pricing.html:1
-msgid "No credit card required"
-msgstr ""
+msgstr "Muss überprüft werden"
 
 #: app/content.py:180 app/templates/about.html:1 app/templates/base.html:3
 #: app/templates/base.html:5 app/templates/base.html:10
@@ -630,289 +701,291 @@ msgstr ""
 #: app/templates/pricing.html:1 app/templates/resources.html:1
 #: app/templates/solutions.html:1
 msgid "Northstar Cloud"
-msgstr ""
-
-#: app/content.py:181 app/templates/home.html:1
-msgid ""
-"Northstar Cloud brings campaigns, customer data, and team workflows "
-"together."
-msgstr ""
-
-#: app/content.py:182
-msgid "Notifications"
-msgstr ""
-
-#: app/content.py:183 app/routes.py:60
-msgid "On track"
-msgstr ""
-
-#: app/content.py:184 app/routes.py:56
-msgid "Open reviews"
-msgstr ""
-
-#: app/content.py:186 app/templates/about.html:1
-msgid "Our principles"
-msgstr ""
-
-#: app/content.py:187
-msgid "Overview"
-msgstr ""
-
-#: app/content.py:188 app/templates/404.html:1
-msgid "Page not found"
-msgstr ""
-
-#: app/content.py:191 app/templates/base.html:6 app/templates/platform.html:1
-msgid "Platform"
-msgstr ""
-
-#: app/content.py:192 app/routes.py:41
-msgid "Please complete all required fields."
-msgstr ""
-
-#: app/content.py:193 app/routes.py:43
-msgid "Please enter a valid email address."
-msgstr ""
-
-#: app/content.py:194 app/templates/500.html:1
-msgid "Please try again later."
-msgstr ""
-
-#: app/content.py:195
-msgid "Popular"
-msgstr ""
-
-#: app/content.py:196 app/templates/resources.html:1
-msgid "Practical ideas for modern marketing and customer experience teams."
-msgstr ""
-
-#: app/content.py:197 app/templates/base.html:6 app/templates/pricing.html:1
-msgid "Pricing"
-msgstr ""
-
-#: app/content.py:198 app/routes.py:23
-msgid "Priority support"
-msgstr ""
-
-#: app/content.py:199 app/templates/base.html:10
-msgid "Privacy"
-msgstr ""
-
-#: app/content.py:201 app/templates/dashboard.html:1
-msgid "Projects"
-msgstr ""
-
-#: app/content.py:202 app/templates/resources.html:1
-msgid "Read the guide"
-msgstr ""
-
-#: app/content.py:203
-msgid "Recommended"
-msgstr ""
+msgstr "Northstar Cloud"
 
 #: app/content.py:206 app/routes.py:62
 msgid "Regional brand update"
-msgstr ""
-
-#: app/content.py:209 app/templates/base.html:6 app/templates/resources.html:1
-msgid "Resources"
-msgstr ""
-
-#: app/content.py:210 app/templates/about.html:1
-msgid "Responsible growth"
-msgstr ""
-
-#: app/content.py:211 app/templates/404.html:1 app/templates/500.html:1
-msgid "Return home"
-msgstr ""
-
-#: app/content.py:214
-msgid "Save"
-msgstr ""
-
-#: app/content.py:216
-msgid "Search"
-msgstr ""
-
-#: app/content.py:219
-msgid "Settings"
-msgstr ""
-
-#: app/content.py:221
-msgid "Sign in"
-msgstr ""
-
-#: app/content.py:222
-msgid "Sign out"
-msgstr ""
+msgstr "Aktuelles zur regionalen Marke"
 
 #: app/content.py:223 app/routes.py:24
 msgid "Single sign-on"
-msgstr ""
-
-#: app/content.py:224 app/templates/base.html:6 app/templates/solutions.html:1
-msgid "Solutions"
-msgstr ""
+msgstr "Einmalige Anmeldung"
 
 #: app/content.py:225 app/templates/solutions.html:1
 msgid ""
 "Solutions for teams that want measurable progress without unnecessary "
 "complexity."
 msgstr ""
+"Lösungen für Teams, die messbare Fortschritte ohne unnötige Komplexität "
+"erzielen möchten."
 
 #: app/content.py:226 app/templates/500.html:1
 msgid "Something went wrong"
-msgstr ""
-
-#: app/content.py:228 app/routes.py:60
-msgid "Spring product launch"
-msgstr ""
-
-#: app/content.py:229
-msgid "Standard reporting"
-msgstr ""
+msgstr "Es ist ein Fehler aufgetreten"
 
 #: app/content.py:230 app/templates/home.html:1
 msgid "Start with a focused use case and expand when your team is ready."
 msgstr ""
-
-#: app/content.py:231 app/routes.py:22
-msgid "Starter"
-msgstr ""
-
-#: app/content.py:232 app/templates/base.html:10 app/templates/dashboard.html:1
-msgid "Status"
-msgstr ""
-
-#: app/content.py:234 app/templates/contact.html:1
-msgid "Submit"
-msgstr ""
-
-#: app/content.py:235
-msgid "Success"
-msgstr ""
-
-#: app/content.py:237 app/routes.py:57
-msgid "Tasks due this week"
-msgstr ""
-
-#: app/content.py:238
-msgid "Team"
-msgstr ""
-
-#: app/content.py:239 app/templates/contact.html:1
-msgid "Tell us what you are trying to improve."
-msgstr ""
-
-#: app/content.py:241 app/templates/base.html:10
-msgid "Terms"
-msgstr ""
+"Beginnen Sie mit einem konkreten Anwendungsfall und erweitern Sie das "
+"Konzept, sobald Ihr Team dazu bereit ist."
 
 #: app/content.py:242 app/routes.py:45
-#, python-format
 msgid "Thank you, %(name)s. Your message has been received."
-msgstr ""
-
-#: app/content.py:243 app/routes.py:66
-msgid "The Italian landing page is ready for final review."
-msgstr ""
+msgstr "Vielen Dank, %(name)s. Deine Nachricht ist bei uns eingegangen."
 
 #: app/content.py:244 app/templates/contact.html:1
 msgid "The contact form is a demonstration and does not send email."
 msgstr ""
-
-#: app/content.py:246 app/templates/404.html:1
-msgid "The page you requested does not exist."
-msgstr ""
-
-#: app/content.py:249 app/routes.py:67
-msgid "This week"
-msgstr ""
-
-#: app/content.py:250 app/routes.py:65
-msgid "Three approvals are waiting for your decision."
-msgstr ""
-
-#: app/content.py:251 app/routes.py:65
-msgid "Today"
-msgstr ""
-
-#: app/content.py:253 app/routes.py:24
-msgid "Unlimited users"
-msgstr ""
-
-#: app/content.py:254 app/routes.py:23
-msgid "Up to 25 users"
-msgstr ""
-
-#: app/content.py:255 app/routes.py:22
-msgid "Up to 5 users"
-msgstr ""
-
-#: app/content.py:256
-#, python-format
-msgid "Updated %(minutes)s minutes ago"
-msgstr ""
+"Das Kontaktformular dient nur zu Demonstrationszwecken und versendet keine "
+"E-Mails."
 
 #: app/content.py:260 app/templates/dashboard.html:1
 msgid ""
 "Use this sample dashboard to demonstrate translated backend-generated "
 "content."
 msgstr ""
-
-#: app/content.py:261 app/templates/about.html:1
-msgid "Useful by default"
-msgstr ""
-
-#: app/content.py:263 app/templates/home.html:1
-msgid "View details"
-msgstr ""
-
-#: app/content.py:264
-msgid "Warning"
-msgstr ""
-
-#: app/content.py:265 app/templates/about.html:1
-msgid "We combine product thinking, service design, and responsible technology."
-msgstr ""
+"Verwenden Sie dieses Beispiel-Dashboard, um übersetzte, vom Backend "
+"generierte Inhalte zu veranschaulichen."
 
 #: app/content.py:266 app/templates/about.html:1
 msgid ""
 "We design features around real tasks instead of impressive-looking "
 "complexity."
 msgstr ""
-
-#: app/content.py:267 app/templates/about.html:1
-msgid "We explain how work moves, who decides, and what happens next."
-msgstr ""
-
-#: app/content.py:268 app/templates/about.html:1
-msgid ""
-"We help teams improve performance while respecting people, data, and "
-"local context."
-msgstr ""
-
-#: app/content.py:270 app/templates/dashboard.html:1
-msgid "Welcome back"
-msgstr ""
-
-#: app/content.py:271 app/templates/contact.html:1
-msgid "Work email"
-msgstr ""
-
-#: app/content.py:274
-msgid "Yearly"
-msgstr ""
-
-#: app/content.py:275 app/routes.py:66
-msgid "Yesterday"
-msgstr ""
-
-#: app/content.py:277 app/templates/dashboard.html:1
-msgid "Your workspace"
-msgstr ""
+"Wir entwickeln Funktionen, die sich an realen Aufgaben orientieren, statt an"
+" einer nur auf den ersten Blick beeindruckenden Komplexität."
 
 #: app/content.py:278 app/templates/pricing.html:1
 msgid "per month"
-msgstr ""
+msgstr "pro Monat"
 
+#: app/content.py:86 app/routes.py:24
+msgid "Audit export"
+msgstr "Export prüfen"
+
+#: app/content.py:124 app/routes.py:22
+msgid "Email support"
+msgstr "E-Mail-Support"
+
+#: app/content.py:32 app/content.py:74
+msgid ""
+"A regional team created one visible process for briefs, localisation, and "
+"approval."
+msgstr ""
+"Ein regionales Team hat einen einheitlichen Prozess für Briefings, "
+"Lokalisierung und Freigabe geschaffen."
+
+#: app/content.py:89 app/templates/home.html:1 app/templates/solutions.html:1
+msgid "Book a demo"
+msgstr "Eine Demo buchen"
+
+#: app/content.py:56 app/content.py:107
+msgid "Contact support"
+msgstr "Support kontaktieren"
+
+#: app/content.py:45 app/content.py:94
+msgid "Campaign reach"
+msgstr "Reichweite der Kampagne"
+
+#: app/content.py:31 app/content.py:122
+msgid "Designing calm marketing operations"
+msgstr "Gestaltung ruhiger Marketingabläufe"
+
+#: app/content.py:126 app/routes.py:24
+msgid "Enterprise"
+msgstr "Unternehmen"
+
+#: app/content.py:73 app/templates/dashboard.html:1
+msgid "A quick view of your current workspace activity."
+msgstr ""
+"Ein kurzer Überblick über die aktuellen Aktivitäten in Ihrem Arbeitsbereich."
+
+#: app/content.py:4 app/content.py:110
+msgid ""
+"Coordinate briefs, channels, owners, and launch dates in one shared view."
+msgstr ""
+"Koordinieren Sie Briefings, Kanäle, Verantwortliche und Starttermine in "
+"einer gemeinsamen Übersicht."
+
+#: app/content.py:106 app/templates/base.html:6 app/templates/contact.html:1
+#: app/templates/pricing.html:1
+msgid "Contact"
+msgstr "Kontakt"
+
+#: app/content.py:81 app/templates/base.html:10
+msgid "All rights reserved."
+msgstr "Alle Rechte vorbehalten."
+
+#: app/content.py:84 app/routes.py:62
+msgid "At risk"
+msgstr "Gefährdet"
+
+#: app/content.py:5 app/content.py:116
+msgid "Customer profiles"
+msgstr "Kundenprofile"
+
+#: app/content.py:115 app/routes.py:23
+msgid "Custom dashboards"
+msgstr "Benutzerdefinierte Dashboards"
+
+#: app/content.py:120 app/routes.py:24
+msgid "Dedicated success manager"
+msgstr "Persönlicher Erfolgsmanager"
+
+#: app/content.py:99
+msgid "Close"
+msgstr "Schließen"
+
+#: app/content.py:111 app/routes.py:22
+msgid "Core workflows"
+msgstr "Kern-Workflows"
+
+#: app/content.py:97 app/templates/platform.html:1
+msgid "Choose the capabilities that match your current priorities."
+msgstr ""
+"Wählen Sie die Funktionen aus, die Ihren aktuellen Prioritäten entsprechen."
+
+#: app/content.py:98 app/templates/about.html:1
+msgid "Clarity over noise"
+msgstr "Klarheit statt Lärm"
+
+#: app/content.py:4 app/content.py:5 app/content.py:6 app/content.py:7
+#: app/content.py:8 app/content.py:9 app/content.py:10 app/content.py:11
+#: app/content.py:12 app/content.py:13 app/content.py:14 app/content.py:15
+#: app/content.py:104
+msgid "Connected capability"
+msgstr "Vernetzungsfähigkeit"
+
+#: app/content.py:21 app/content.py:114
+msgid ""
+"Create reliable review paths for increasing volumes of regional content."
+msgstr ""
+"Schaffen Sie zuverlässige Prüfwege für die zunehmende Menge an regionalen "
+"Inhalten."
+
+#: app/content.py:46 app/content.py:108
+msgid "Content approved"
+msgstr "Inhalt genehmigt"
+
+#: app/content.py:15 app/content.py:119
+msgid "Data connectors"
+msgstr "Datenkonnektoren"
+
+#: app/content.py:61 app/content.py:88
+msgid "Backend messages use the same translation catalogues as the templates."
+msgstr ""
+"Backend-Meldungen verwenden dieselben Übersetzungskataloge wie die Vorlagen."
+
+#: app/content.py:49 app/content.py:76
+msgid "Action required"
+msgstr "Erforderliche Maßnahme"
+
+#: app/content.py:9 app/content.py:105
+msgid "Consent controls"
+msgstr "Einwilligungssteuerung"
+
+#: app/content.py:10 app/content.py:121
+msgid ""
+"Define practical segments with readable rules your team can review together."
+msgstr ""
+"Definieren Sie praxisorientierte Segmente mit klar verständlichen Regeln, "
+"die Ihr Team gemeinsam prüfen kann."
+
+#: app/content.py:80 app/routes.py:23
+msgid "Advanced automation"
+msgstr "Fortgeschrittene Automatisierung"
+
+#: app/content.py:30 app/content.py:92
+msgid "Campaign launch readiness checklist"
+msgstr "Checkliste zur Vorbereitung auf den Start einer Kampagne"
+
+#: app/content.py:43 app/content.py:102
+msgid "Completion rate"
+msgstr "Abschlussquote"
+
+#: app/content.py:8 app/content.py:103
+msgid ""
+"Connect activity to outcomes with understandable reports for every "
+"stakeholder."
+msgstr ""
+"Verbinden Sie Maßnahmen mit Ergebnissen – mit verständlichen Berichten für "
+"alle Beteiligten."
+
+#: app/content.py:15 app/content.py:90
+msgid ""
+"Bring selected data into the workspace through transparent, manageable "
+"connections."
+msgstr ""
+"Führen Sie ausgewählte Daten über transparente, verwaltbare Verbindungen in "
+"den Arbeitsbereich ein."
+
+#: app/content.py:9 app/content.py:82
+msgid ""
+"Apply customer preferences consistently across channels and campaign steps."
+msgstr ""
+"Wenden Sie die Kundenpräferenzen kanalübergreifend und in allen "
+"Kampagnenschritten einheitlich an."
+
+#: app/content.py:6 app/content.py:109
+msgid "Content library"
+msgstr "Inhaltsbibliothek"
+
+#: app/content.py:5 app/content.py:112
+msgid ""
+"Create a useful customer view without hiding the source of each data point."
+msgstr ""
+"Erstellen Sie eine aussagekräftige Kundensicht, ohne die Quelle der "
+"einzelnen Datenpunkte zu verbergen."
+
+#: app/content.py:65 app/content.py:101
+msgid "Compile the catalogues before deploying the application."
+msgstr ""
+"Stellen Sie die Kataloge vor der Bereitstellung der Anwendung zusammen."
+
+#: app/content.py:100 app/templates/contact.html:1
+msgid "Company"
+msgstr "Unternehmen"
+
+#: app/content.py:78 app/templates/dashboard.html:1
+msgid "Activity"
+msgstr "Aktivität"
+
+#: app/content.py:117 app/routes.py:61
+msgid "Customer welcome series"
+msgstr "Reihe zur Kundenbegrüßung"
+
+#: app/content.py:95
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: app/content.py:77 app/routes.py:56
+msgid "Active campaigns"
+msgstr "Laufende Kampagnen"
+
+#: app/content.py:44 app/content.py:87
+msgid "Average review time"
+msgstr "Durchschnittliche Bearbeitungszeit"
+
+#: app/content.py:125
+msgid "English"
+msgstr "Englisch"
+
+#: app/content.py:10 app/content.py:85
+msgid "Audience builder"
+msgstr "Zielgruppenaufbau"
+
+#: app/content.py:13 app/content.py:79
+msgid ""
+"Adapt global campaigns while preserving local language, timing, and "
+"compliance needs."
+msgstr ""
+"Globale Kampagnen anpassen und dabei die Anforderungen hinsichtlich lokaler "
+"Sprache, Zeitplanung und Compliance berücksichtigen."
+
+#: app/content.py:118 app/templates/base.html:6 app/templates/dashboard.html:1
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: app/content.py:75 app/templates/about.html:1 app/templates/base.html:6
+msgid "About"
+msgstr "Über"
