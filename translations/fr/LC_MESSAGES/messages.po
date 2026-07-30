@@ -888,7 +888,7 @@ msgstr ""
 
 #: app/content.py:95
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: app/content.py:70 app/routes.py:67
 msgid "A campaign owner changed the launch date."
