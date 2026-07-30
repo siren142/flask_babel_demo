@@ -11,7 +11,7 @@ msgstr ""
 #: app/content.py:12 app/content.py:13 app/content.py:14 app/content.py:15
 #: app/content.py:104
 msgid "Connected capability"
-msgstr ""
+msgstr "Fonctionnalité connectée"
 
 #: app/content.py:4 app/content.py:110
 msgid ""
